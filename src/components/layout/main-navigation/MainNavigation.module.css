@@ -1,0 +1,25 @@
+.nav
+{
+    height: 70px;
+    background-color: #F55A5A;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navImg
+{
+    width: 24px;
+}
+
+.navTitle
+{
+   font-family: Inter;
+font-style: normal;
+font-weight: 500;
+font-size: 1.2em;
+margin-left: 17px;
+line-height: 18px;
+letter-spacing: -0.075em;
+}
